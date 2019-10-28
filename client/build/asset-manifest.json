@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kwuellner/google-book-search/static/css/main.b100e6da.chunk.css",
+    "main.js": "/kwuellner/google-book-search/static/js/main.71c08b2e.chunk.js",
+    "main.js.map": "/kwuellner/google-book-search/static/js/main.71c08b2e.chunk.js.map",
+    "runtime-main.js": "/kwuellner/google-book-search/static/js/runtime-main.2f809b26.js",
+    "runtime-main.js.map": "/kwuellner/google-book-search/static/js/runtime-main.2f809b26.js.map",
+    "static/js/2.c158c955.chunk.js": "/kwuellner/google-book-search/static/js/2.c158c955.chunk.js",
+    "static/js/2.c158c955.chunk.js.map": "/kwuellner/google-book-search/static/js/2.c158c955.chunk.js.map",
+    "index.html": "/kwuellner/google-book-search/index.html",
+    "precache-manifest.ddfaf3ad6a2679d7fe5af34f6175c6d8.js": "/kwuellner/google-book-search/precache-manifest.ddfaf3ad6a2679d7fe5af34f6175c6d8.js",
+    "service-worker.js": "/kwuellner/google-book-search/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/kwuellner/google-book-search/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/kwuellner/google-book-search/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f809b26.js",
+    "static/js/2.c158c955.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.71c08b2e.chunk.js"
+  ]
+}
