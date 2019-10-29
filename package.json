@@ -8,7 +8,8 @@
     "mongoose": "^5.7.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "socket.io": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/kwuellner/google-book-search",
+  "author": "Kyle Wuellner <rockstar81@comcast.net>",
+  "license": "MIT"
 }
